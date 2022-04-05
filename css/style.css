@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.myMargin{
+    margin: 25px;
+}
+.footer
+{
+    height: 70px;
+    background-color: black;
+    color: white;
+   
+}
+.footer p{
+    text-align: center;
+    padding-top: 20px;
+}
+.login-content
+{
+    background-image: url("../images/f.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    
+   
+    display: grid;
+    place-items: center;
+
+}.loginForm{
+   
+    background-color: white;
+    opacity: 0.55;
+    padding: 10px;
+    margin-top: 40px;
+   margin-bottom: 50px;
+
+
+}
+.loginForm h4{
+    text-align:center;
+}
+.signUpForm{
+    margin-left: 150px;
+    background-color: white;
+    opacity: 0.55;
+    padding: 10px;
+    height:550px;
+}
+.signUpForm h4{
+    text-align:center;
+}
+.container{
+    padding-top: 30px;
+}
+.card{
+    height: 550px;
+    margin-bottom: 20px;;
+}
+.card-body
+{
+    margin-top: 20px;
+}
+.district{
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+.district h1{
+    text-align: center;
+}
