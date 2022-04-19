@@ -21,7 +21,7 @@
     background-image: url("../images/f.jpg"); 
     background-size:cover;
     background-repeat:no-repeat;
-    /* background-attachment: fixed; */
+  
    
     display: grid;
     place-items: center;
